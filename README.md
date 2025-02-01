@@ -1,22 +1,23 @@
-<img src="https://docs.neurons.me/media/all-this/webP/this.text.webp" alt="SVG Image" width="250" height="250">
+<img src="https://docs.neurons.me/media/all-this/webP/this.url.webp" alt="SVG Image" width="250" height="250">
 
-# THIS.TEXT
-> The State Guardian, it represents the heart of your application, maintaining a global state or context. Every time there's a change, or when specific events occur, "this.be" takes note and acts as the guardian of that state, ensuring that it's accessible and known.
+# THIS.URL
+> The this.url class is designed to fetch and parse URL data,  returning an object with structured information that can then be used for machine learning algorithms in a database or other storage. 
+
+This allows you to separate the data acquisition and preprocessing from the machine learning and analysis steps.
 
 # Getting Started:
-
-##### **Install `this.text`:**
-Open your terminal and run the following command to install the `this.me` package:
+##### **Install `this.url`:**
+Open your terminal and run the following command to install the `this.url` package:
 
 ```bash
-npm i this.text
+npm i this.url
 ```
 
-##### **Import `this.text` in Your Project:**
-In the JavaScript file where you want to use `this.text`, import the `thisText` class.
+##### **Import `this.url` in Your Project:**
+In the JavaScript file where you want to use `this.url`, import the `thisURL` class.
 
 ```js
-import thisText from 'this.text';
+import thisURL from 'this.url';
 ```
 
 # Simple Integration Example:
@@ -24,9 +25,7 @@ import thisText from 'this.text';
 ## Summary:
 
 # What is All.This?
-
 ###### Modular Data Structures:
-
 **Each module** in **[all.this](https://neurons.me/all-this)** represents a specific **datastructure**. These **classes** encapsulate the functionalities and **data specific to their domain.**
 
 **[this.me](https://docs.neurons.me/this.me/index.html)  - [this.audio](https://docs.neurons.me/this.audio/index.html) - [this.text](https://docs.neurons.me/this.text/index.html) - [this.wallet](https://docs.neurons.me/this.wallet/index.html) - [this.img](https://docs.neurons.me/this.img/index.html) - [this.pixel](https://docs.neurons.me/this.pixel/index.html) - [be.this](https://docs.neurons.me/be.this/index.html) - [this.DOM](https://docs.neurons.me/this.DOM/index.html) - [this.env](https://docs.neurons.me/this.env/index.html) - [this.GUI](https://docs.neurons.me/this.GUI/index.html) - [this.be](https://docs.neurons.me/this.be/index.html) - [this.video](https://docs.neurons.me/this.video/index.html) - [this.dictionaries](https://docs.neurons.me/this.dictionaries/index.html)** 
